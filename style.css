@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+
+    
+}
+.first{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first img{
+    margin-top: 180px;
+    width:70%;
+    margin-left: 150px;
+}
+.box{
+    margin-top: 300px;
+    
+}
+section{
+    
+    height:930px;
+}
+h3{
+    font-size: 40px;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+}
+#name{
+    color:rgb(219, 17, 84);
+}
+.button{
+    background-image: linear-gradient(180deg,rgb(14, 210, 224),rgb(19, 153, 216));
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700px;
+}
+.bg-image{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+}
+.bg-image2{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.second{
+    
+    width:20%;
+    margin: 50px;
+    padding:75px;
+    float: left;
+}
+.second img{
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.button1{
+    
+    background-image: linear-gradient(45deg, #ff5733 , #900C3F);
+    width: 30%;
+    text-decoration: none;
+    padding: 20px;
+    
+    margin-left: 655px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 10px;
+    
+    
+}
+
+
+
+#big{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+#small{
+    margin-left: 600px;
+    margin-right: 600px;
+}
